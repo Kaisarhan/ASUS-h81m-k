@@ -30,5 +30,5 @@ Hackintosh OpenCore-0.9.0 EFI for ASUS h81m-k i7-4790 rx570
 - [R-Drive Image для Windows](https://www.softportal.com/software-39233-r-drive-image.html) - R-Drive пробной версий хватит с гловой
 
 ## List of useful URL
-- [@Aleksey_Konovalov](https://www.youtube.com/@Aleksey_Konovalov) - Нудный канал но есть полезные видосы типа как записать на флешку образ, как работает OpenCore и т.д
+- [Aleksey_Konovalov](https://www.youtube.com/@Aleksey_Konovalov) - Нудный канал но есть полезные видосы типа как записать на флешку образ, как работает OpenCore и т.д
 - [Boronenkov](https://www.youtube.com/@Boronenkov) - У этого канала полезные видосы по Hachintosh, kext, aml и т.д
